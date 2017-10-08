@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Infinite Runner/Scripts/Game/GameManager.cs">
+    <Files>
+      <File FileName="Assets/ProjectionMapping/Scripts/PMappingController.cs" Line="84" Column="48" />
+      <File FileName="Assets/Infinite Runner/Scripts/Game/GameManager.cs" Line="199" Column="40" />
+      <File FileName="Assets/Infinite Runner/Scripts/Player/CameraController.cs" Line="22" Column="24" />
+      <File FileName="Assets/UserTracker/Kinect/ZigfuTracking/UserTrackerTransform.cs" Line="6" Column="43" />
+      <File FileName="Assets/Infinite Runner/Scripts/Game/DataManager.cs" Line="81" Column="3" />
+      <File FileName="Assets/UserPerspectiveCamera/Scripts/UserPerspectiveCam.js" Line="1" Column="1" />
+      <File FileName="Assets/Infinite Runner/Scripts/Player/PlayerController.cs" Line="165" Column="1" />
+      <File FileName="Assets/UserTracker/Kinect/ZigfuTracking/TrackerPlayerController.cs" Line="5" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/harpreet/Documents/Unity/UnityProjects/CaveGames/CastleRunner-Cave/Assets/Infinite Runner/Scripts/Player/PlayerController.cs" line="99" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

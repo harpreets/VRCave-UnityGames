@@ -1,0 +1,93 @@
+fileFormatVersion: 2
+guid: c854e47a9a8013e42ac4608c0d8f509c
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Coin
+    100002: CoinMagnet
+    100004: //RootNode
+    100006: DoubleCoin
+    100008: Invincibility
+    100010: Point
+    100012: Point_001
+    100014: Point_002
+    100016: Point_003
+    100018: Point_004
+    100020: Point_005
+    400000: Coin
+    400002: CoinMagnet
+    400004: //RootNode
+    400006: DoubleCoin
+    400008: Invincibility
+    400010: Point
+    400012: Point_001
+    400014: Point_002
+    400016: Point_003
+    400018: Point_004
+    400020: Point_005
+    2300000: Coin
+    2300002: CoinMagnet
+    2300004: DoubleCoin
+    2300006: Invincibility
+    3300000: Coin
+    3300002: CoinMagnet
+    3300004: DoubleCoin
+    3300006: Invincibility
+    4300000: DoubleCoin
+    4300002: CoinMagnet
+    4300004: Invincibility
+    4300006: Coin
+    7400000: Default Take
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 
